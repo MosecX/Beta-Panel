@@ -1,1 +1,1 @@
-# Beta-Panel
+# Beta - Panel
